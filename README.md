@@ -4,12 +4,20 @@ Frontend Angular
 Backend Node.Js
 Database PostgresSQL
 
+Fully Hosted on AWS utilizing S3 for static website, Lambda for DB intergration, RDS for cloud hosted PostgresSQL database
+
 BBallComp project is to analyze NBA statistics and gain insights into players and teams based on comparisons, compisitions, and compensation.
 
 # Comparison
-Utilizing KNN Classifier, finds the 5 most similar players based on statistics.
+Utilizing KNN Classifier, finds the 5 most similar players based on set of statistics.
 Example :
-
+Players most similar to Jordan Poole:
+    Similar Player  Distance Team Position
+100   Bradley Beal  1.085109  PHO       SG
+52   Devin Vassell  1.137063  SAS       SG
+33   Collin Sexton  1.218015  UTA       SG
+63    Terry Rozier  1.242393  MIA       SG
+215    Zach LaVine  1.270654  CHI       SG
 
 
 # Composition (TBD)
