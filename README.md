@@ -4,7 +4,7 @@ Frontend Angular
 Backend Node.Js
 Database PostgresSQL
 
-Fully Hosted on AWS utilizing S3 for static website, Lambda for DB intergration, RDS for cloud hosted PostgresSQL database
+Fully Hosted on AWS utilizing S3 for static website, API Gateway Request/Resposne transformation, Lambda for resolving DB calls, RDS for cloud hosted PostgresSQL database
 
 BBallComp project is to analyze NBA statistics and gain insights into players and teams based on comparisons, compisitions, and compensation.
 
